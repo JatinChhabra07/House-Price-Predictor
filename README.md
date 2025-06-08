@@ -1,5 +1,5 @@
 # House-Price-Predictor
-House Price Predictor
+
 A simple AI-powered House Price Predictor built with Python, Pandas, scikit-learn (Linear Regression), and Tkinter.
 
 The app allows users to estimate house prices based on:
